@@ -1,0 +1,2 @@
+Este es un archivo de prueba, 
+version inicial 0.0.0
